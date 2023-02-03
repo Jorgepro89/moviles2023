@@ -1,3 +1,6 @@
 nombres
 Jorge
 Raquel
+miguel
+carlos
+fernando
