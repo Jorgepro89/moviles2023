@@ -2,5 +2,10 @@ apellidos
 
 Ochoa Martínez
 Vargas González
+
+Soto
+Sanchez
+
 martinez 
 barba
+
